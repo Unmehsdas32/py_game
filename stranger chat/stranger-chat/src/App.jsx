@@ -1,8 +1,4 @@
 
-
-// ============================
-// src/App.jsx
-// ============================
 import { useState } from 'react'
 import Landing from './components/Landing'
 import GenderSelect from './components/GenderSelect'
